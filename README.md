@@ -12,7 +12,7 @@ El dataset `connectatel_customers` incluye información de clientes, planes cont
 
 ## Cómo reproducir el análisis
 
-1. Abre `notebooks/connectatel_analysis.ipynb`.
+1. Abre Project-ConnectaTel.ipynb
 2. Ejecuta las celdas en orden.
 3. El notebook carga automáticamente el dataset desde la carpeta `/data/` o desde el origen configurado en el proyecto.
 
